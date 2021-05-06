@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finaly</string>
+    <string name="change_dir">CD</string>
+    <string name="dir_name">dir name</string>
+</resources>
